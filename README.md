@@ -15,20 +15,15 @@ A medical research company believes that there might be distinct groups of patie
 
 * Part 3: Perform a Cluster Analysis with K-means
    * I created an elbow plot to identify the best number of clusters, which is shown below. The elbow appears around K=5. 
-- - -   
+  
 <img width="479" alt="Elbow Curve" src="https://user-images.githubusercontent.com/100361900/186711037-85efa4a9-0c5e-4fa5-9b82-88610eff2845.png">
-- - -
+
 * Part 4: Make a Recommendation 
    * I used the K-means model to add a class column to the data set, then updated my scatter plot to color the clusters by class. It does appear that we could further analyze the data based on five groups of patients. The final plot is shown below.
-- - -   
+  
 <img width="430" alt="Clusters Plot" src="https://user-images.githubusercontent.com/100361900/186711078-30771574-058a-41a4-af22-34f5adbbdd34.png">
-- - -
+
 
 ## References
 
 Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
-
-- - -
-
-
-
