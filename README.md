@@ -3,9 +3,7 @@
 ## Description:
 A medical research company believes that there might be distinct groups of patients that would be better to analyze separately in a data set being used to predict Myopia, or nearsightedness. Here I will explore this possibility using unsupervised learning. Starting with raw data, I will first prepare it to fit the machine learning models. Several clustering algorithms will be used to explore whether the patients can be placed into distinct groups. Following the models, I created a visualization to share my findings.
 
-https://images.ctfassets.net/u4vv676b8z52/1WPtRaHnBp3I9xJ1a35XP7/380aaa26bb3b9d8cd3f3cc8acd9a9e98/myopia-illustration-330x220.gif
-
-
+![myopia-illustration-330x220](https://user-images.githubusercontent.com/100361900/186709089-690ab99d-51a3-40fd-931c-8420c69fc9e4.gif)
 
 ## Instructions
 
